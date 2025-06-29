@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+**About me**
 Hi! I’m Jasper, an electrical engineer and researcher specializing in control systems for electric power networks. My work focuses on developing intelligent, resilient, and sustainable energy solutions through the design and implementation of advanced control techniques and data-driven system modeling.
 
 With academic training in electrical power systems and practical experience in field deployments, I bring a multidisciplinary perspective to the challenges of modern energy infrastructure. I’m particularly interested in the integration of real-time data, system dynamics, and automation to improve the operation of power grids in both developed and emerging contexts.
