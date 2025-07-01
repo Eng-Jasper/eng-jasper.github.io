@@ -21,8 +21,10 @@ main:
   - title: "Publications"
     url: /pub-scholar/
 
-  - title: "Apply"
-    url: /apply/
+  # - title: "Apply"
+  #   url: /apply/
+  - title: "CV"
+    url: /cv/
 
   - title: "Contact"
     url: /contact/    
@@ -34,9 +36,6 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
