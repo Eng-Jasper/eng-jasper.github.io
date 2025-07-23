@@ -15,15 +15,18 @@ My research explores the convergence of control theory, renewable energy systems
 ## Research & Technical Work
 My technical and academic work focuses on enhancing the stability, efficiency, and intelligence of electric power systems. I design tools and methodologies that support real-time monitoring, automated control, and strategic decision-making in energy networks.
 
-## Key Projects and Contributions:
+## Key Projects and Contributions
 
 - Thyristor Turn-Off Modeling
+  
 Developed a high-fidelity Simulink model to simulate the turn-off behavior of HVDC thyristor valves, addressing the lack of standardized modeling techniques. This work is being refined for academic publication and potential patenting.
 
 - Phasor Measurement Units (PMUs) Deployment – Rwanda Power Grid
+
 Collaborated with the national utility under Rwanda Energy Group to deploy and integrate PMU devices into the national grid. Contributions included optimal placement analysis, power quality visualization algorithms, engineer training, and system commissioning.
 
 - Energy Systems and Solar Electrification
+
 Experience in the design, operation, and maintenance of solar mini-grids, substations, protective relay systems, and hospital energy infrastructure—bridging the gap between engineering design and real-world applications.
 
 ## Academic Background
@@ -53,13 +56,13 @@ Delivered technical workshops and mentorship for junior engineers and students o
 ## Professional Memberships
 I am an active member of several IEEE societies, where I contribute to professional discourse, access emerging research, and collaborate with peers in academia and industry:
 
-IEEE Power & Energy Society (PES)
+- IEEE Power & Energy Society (PES)
 
-IEEE Power Electronics Society (PELS)
+- IEEE Power Electronics Society (PELS)
 
-IEEE Industry Applications Society (IAS)
+- IEEE Industry Applications Society (IAS)
 
-IEEE Young Professionals
+- IEEE Young Professionals
 
 IEEE (General Member)
 - IEEE Young Professionals
