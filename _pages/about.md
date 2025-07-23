@@ -7,51 +7,61 @@ redirect_from:
   - /about.html
 ---
 
-**About me**
-Hi! I’m Jasper, an electrical engineer and researcher specializing in control systems for electric power networks. My work focuses on developing intelligent, resilient, and sustainable energy solutions through the design and implementation of advanced control techniques and data-driven system modeling.
 
-With academic training in electrical power systems and practical experience in field deployments, I bring a multidisciplinary perspective to the challenges of modern energy infrastructure. I’m particularly interested in the integration of real-time data, system dynamics, and automation to improve the operation of power grids in both developed and emerging contexts.
+Hello! I'm Jasper, an electrical engineer and researcher specializing in control systems, power electronics, and intelligent energy networks. I’m currently pursuing a Ph.D. in Electrical and Computer Engineering at McGill University, where I work at the Intelligent Automation Lab (IALab) within the Centre for Intelligent Machines.
 
-My Work and Research
-My research and technical work sit at the intersection of control theory, electrical power systems, and intelligent infrastructure. I work on tools and models that support real-time monitoring, system control, and strategic planning in electrical networks.
+My research explores the convergence of control theory, renewable energy systems, and data-driven modeling, with a focus on developing resilient and intelligent solutions for modern electric power infrastructure. I am particularly interested in real-time system monitoring, dynamic control strategies, and sustainable energy integration for both developing and industrialized regions.
 
-Highlights of my work include:
+## Research & Technical Work
+My technical and academic work focuses on enhancing the stability, efficiency, and intelligence of electric power systems. I design tools and methodologies that support real-time monitoring, automated control, and strategic decision-making in energy networks.
 
-- Thyristor Turn-Off Modeling: Developed a Simulink-based model to simulate the turn-off dynamics of HVDC thyristor valves—an area lacking standardized modeling tools. This project is being advanced for academic publication and patent consideration.
+## Key Projects and Contributions:
 
-- Phasor Measurement Units (PMUs) & Grid Monitoring: Contributed to the deployment and integration of PMUs into a national power grid. Designed algorithms for power quality visualization, conducted optimal PMU placement studies, and supported engineer training and project analysis.
+- Thyristor Turn-Off Modeling
+Developed a high-fidelity Simulink model to simulate the turn-off behavior of HVDC thyristor valves, addressing the lack of standardized modeling techniques. This work is being refined for academic publication and potential patenting.
 
-My Background and History
-My journey blends academic achievement, industry experience, and community leadership.
+- Phasor Measurement Units (PMUs) Deployment – Rwanda Power Grid
+Collaborated with the national utility under Rwanda Energy Group to deploy and integrate PMU devices into the national grid. Contributions included optimal placement analysis, power quality visualization algorithms, engineer training, and system commissioning.
 
-Academic Training:
+- Energy Systems and Solar Electrification
+Experience in the design, operation, and maintenance of solar mini-grids, substations, protective relay systems, and hospital energy infrastructure—bridging the gap between engineering design and real-world applications.
 
-- Master’s in Electrical and Computer Engineering at Carnegie Mellon University (with strong focus on control systems, power electronics, energy systems and Data Science)
+## Academic Background
+- Ph.D. in Electrical and Computer Engineering (in progress)
+McGill University
 
-- Bachelor’s in Electrical Power Engineering at University of Rwanda
+  - Focus: Control Systems, Power Electronics
 
-Field & Industry Experience:
+- M.Sc. in Electrical and Computer Engineering
+Carnegie Mellon University – Africa Campus
 
-- Worked in power system operations and maintenance with utilities and hospitals.
+  - Concentration: Energy Systems, Control, and Data Science
 
-- Experience with solar mini-grids, substations, industrial automation, and protective relays.
+- B.Sc. in Electrical Power Engineering
+University of Rwanda
 
-- Provided engineering support in both urban and rural electrification contexts.
+## Professional Experience
+Before beginning my doctoral studies, I worked extensively in power systems operations and energy infrastructure projects. My experience spans both technical engineering roles and applied research in utilities, industrial facilities, and rural electrification initiatives.
 
-Leadership Roles:
+## Leadership & Community Engagement
+- President, Energy and Embedded Systems Club
+Led campus-wide events focused on renewable energy, embedded controls, and smart grid innovations.
 
-President, Energy and Embedded Systems Club Led events and initiatives focused on renewable energy, embedded control, and smart grid technologies.
-My Background and History
-I actively engage with research and engineering communities that share a passion for solving critical energy challenges through innovation, collaboration, and open knowledge.
+- Mentorship & Technical Training
+Delivered technical workshops and mentorship for junior engineers and students on topics such as PMU integration, control system design, and energy analytics.
 
-**Professional Memberships:**
+## Professional Memberships
+I am an active member of several IEEE societies, where I contribute to professional discourse, access emerging research, and collaborate with peers in academia and industry:
 
-- IEEE (Institute of Electrical and Electronics Engineers)
+IEEE Power & Energy Society (PES)
 
-- IEEE Power Electronics Society
+IEEE Power Electronics Society (PELS)
 
-- IEEE Industry Applications Society
+IEEE Industry Applications Society (IAS)
 
+IEEE Young Professionals
+
+IEEE (General Member)
 - IEEE Young Professionals
 
 - IEEE Power & Energy Society
