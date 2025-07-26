@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I'm Jasper, an electrical engineer and researcher specializing in control systems, power electronics, and intelligent energy networks. I’m currently pursuing a Ph.D. in Electrical and Computer Engineering at McGill University, where I work at the Intelligent Automation Lab (IALab) within the Centre for Intelligent Machines.
 
-My research explores the convergence of control theory, renewable energy systems, and data-driven modeling, with a focus on developing resilient and intelligent solutions for modern electric power infrastructure. I am particularly interested in real-time system monitoring, dynamic control strategies, and sustainable energy integration for both developing and industrialized regions.
+```My research explores the convergence of control theory, renewable energy systems, and data-driven modeling, with a focus on developing resilient and intelligent solutions for modern electric power infrastructure. I am particularly interested in real-time system monitoring, dynamic control strategies, and sustainable energy integration for both developing and industrialized regions.```
 
 ## Research & Technical Work
 My technical and academic work focuses on enhancing the stability, efficiency, and intelligence of electric power systems. I design tools and methodologies that support real-time monitoring, automated control, and strategic decision-making in energy networks.
