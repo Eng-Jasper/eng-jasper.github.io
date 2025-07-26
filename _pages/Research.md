@@ -13,11 +13,11 @@ To address this gap, I developed a detailed and high-fidelity model using Simuli
 
 **This project aims to:**
 
-- Improve how HVDC thyristor turn-off dynamics are studied
+- Improve how HVDC thyristor turn-off dynamics are studied.
 
-- Provide a practical tool for researchers and system designers
+- Provide a practical tool for researchers and system designers.
 
-- Lay the groundwork for future development in this area
+- Lay the groundwork for future development in this area.
 
 The model is currently being refined for academic publication and is under consideration for patenting, due to its potential to fill a critical gap in power electronics simulation.
 
