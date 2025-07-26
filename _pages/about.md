@@ -15,7 +15,7 @@ Hello! I'm Jasper, an electrical engineer and researcher specializing in control
 ## Research & Technical Work
 My technical and academic work focuses on enhancing the stability, efficiency, and intelligence of electric power systems. I design tools and methodologies that support real-time monitoring, automated control, and strategic decision-making in energy networks.
 
-# Key Projects and Contributions
+### Key Projects and Contributions
 
 - Thyristor Turn-Off Modeling
   
