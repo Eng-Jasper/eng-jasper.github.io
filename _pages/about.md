@@ -48,9 +48,11 @@ Before beginning my doctoral studies, I worked extensively in power systems oper
 
 ## Leadership & Community Engagement
 - President, Energy and Embedded Systems Club
+
 Led campus-wide events focused on renewable energy, embedded controls, and smart grid innovations.
 
 - Mentorship & Technical Training
+
 Delivered technical workshops and mentorship for junior engineers and students on topics such as PMU integration, control system design, and energy analytics.
 
 ## Professional Memberships
