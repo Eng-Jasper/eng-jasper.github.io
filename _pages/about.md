@@ -66,9 +66,5 @@ I am an active member of several IEEE societies, where I contribute to professio
 
 - IEEE Young Professionals
 
-IEEE (General Member)
-- IEEE Young Professionals
-
-- IEEE Power & Energy Society
 
 These communities enable me to stay connected with emerging trends, contribute to peer exchange, and build collaborations that push the boundaries of what is possible in electrical engineering.
