@@ -12,10 +12,10 @@ I was honored to receive the [Jeremiah N. Mpagazehe Rising Researcher Award](htt
 
 My recognition was based on:
 
-- Leading the Energy and Embedded Systems Club (Jan–Nov 2024)
+- Leading the Energy and Embedded Systems Club (Jan–Nov 2024).
 
-- Serving as a Teaching Assistant for power electronics courses
+- Serving as a Teaching Assistant for power electronics courses.
 
-- Initiating original research on thyristor turn-off modeling in Simulink
+- Initiating original research on thyristor turn-off modeling in Simulink.
 
-- Contributing to Project UMURIRO, where I developed algorithms for PMU analysis and trained engineers at Rwanda Energy Group
+- Contributing to Project UMURIRO, where I developed algorithms for PMU analysis and trained engineers at Rwanda Energy Group.
