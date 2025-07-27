@@ -21,8 +21,9 @@ main:
   - title: "Publications"
     url: /pub-scholar/
 
-  # - title: "Apply"
-  #   url: /apply/
+  - title: "Awards"
+    url: /awards/
+  
   - title: "CV"
     url: /cv/
 
