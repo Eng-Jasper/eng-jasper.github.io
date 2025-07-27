@@ -18,8 +18,8 @@ main:
   # - title: "Services"
   #   url: /services/
 
-  - title: "Publications"
-    url: /pub-scholar/
+ # - title: "Publications"
+  #  url: /pub-scholar/
 
   - title: "Awards"
     url: /awards/
