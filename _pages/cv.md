@@ -17,7 +17,7 @@ Find and download my PDF CV [here](https://drive.google.com/file/d/1cOPWypzn3jfN
 
 # Work experience
 
-**Industrial Machine Operator** at [Africa Improved Foods](https://africaimprovedfoods.com/), Jan – Dec 2023
+**Industrial Machine Operator** at [Africa Improved Foods](https://africaimprovedfoods.com/), Jan – Oct 2023
 
   * Operated and monitored industrial plant processes to improve production efficiency.
   * Performed monthly preventive maintenance to enhance equipment reliability.
