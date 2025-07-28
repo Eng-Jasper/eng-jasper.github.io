@@ -17,21 +17,19 @@ Find and download my PDF CV [here](https://drive.google.com/file/d/1cOPWypzn3jfN
 
 # Work experience
 
-**Industrial Machine Operator** at Africa Improved Foods, Kigali, Rwanda, Jan – June 2023
+**Industrial Machine Operator** at [Africa Improved Foods](https://africaimprovedfoods.com/), Jan – June 2023
 
   * Operated and monitored industrial plant processes to improve production efficiency.
   * Performed monthly preventive maintenance to enhance equipment reliability.
   * Reported equipment performance metrics and identified issues for early intervention.
 
-**Electrical Technician**
-_King Faisal Hospital_, Rwanda,  Mar – July 2022
+**Electrical Technician** at [King Faisal Hospital](https://kfh.rw/), Mar – July 2022
 
   * Maintained the hospital’s electrical substation, ensuring continuous and safe operation.
   * Repaired electrical installations and systems to support essential services.
   * Oversaw solar mini-grid, UPS systems, control panels, and electrical cabinets.
 
-**Electrical Technician**
-Rwanda Energy Group (REG) — Mar – Oct 2021
+**Electrical Technician** at [Rwanda Energy Group]([www.reg.rw](https://www.reg.rw/) — Mar – Oct 2021
 
   * Maintained and repaired medium-voltage power networks.
   * Extended low-voltage distribution lines to support rural electrification.
