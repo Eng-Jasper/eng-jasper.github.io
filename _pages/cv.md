@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D. in Electrical and Computer Engineering (In Progress)
-McGill University, Canada
-Centre for Intelligent Machines – Intelligent Automation Lab
+    McGill University, Canada
+    Centre for Intelligent Machines – Intelligent Automation Lab
 
 Start: July 2025
 
 * M.S. in Electrical and Computer Engineering
-  Carnegie Mellon University
-  Concentration: Energy Systems, and Data Science
+    Carnegie Mellon University
+    Concentration: Energy Systems, and Data Science
 
 * B.S. in Electrical Power Engineering
-  University of Rwanda
+    University of Rwanda
 
 Work experience
 ======
