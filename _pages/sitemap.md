@@ -1,8 +1,9 @@
 ---
-layout: archive
+layout: null
 title: "Sitemap"
-<--! permalink: /sitemap/ -->
-author_profile: true
+permalink: /sitemap/
+author_profile: false
+published: false
 ---
 
 {% include base_path %}
