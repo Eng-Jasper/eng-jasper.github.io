@@ -9,7 +9,7 @@ Find and download my PDF CV [here](https://drive.google.com/file/d/1cOPWypzn3jfN
 
 # Education
 
-* Ph.D. in Electrical and Computer Engineering (In Progress), McGill University, Canada
+* Ph.D. in Electrical and Computer Engineering (In Progress), McGill University
     
 * M.S. in Electrical and Computer Engineering, Carnegie Mellon University
 
