@@ -24,7 +24,7 @@ Start: July 2025
 * B.S. in Electrical Power Engineering
     University of Rwanda
 
-Work experience
+# Work experience
 ======
 **Industrial Machine Operator**
 Africa Improved Foods, Kigali, Rwanda — Jan – June 2023
@@ -48,7 +48,7 @@ Rwanda Energy Group (REG) — Mar – Oct 2021
   * Calibrated and serviced energy meters; monitored substation performance and faults.
 
 
-Skills
+# Skills
 ======
 **Power Systems & Electrical Engineering**
   * Power System Operations, Power Electronics, Electrical Network Analysis
