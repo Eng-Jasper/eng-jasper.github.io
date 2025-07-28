@@ -11,54 +11,67 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Electrical and Computer Engineering (In Progress)
+McGill University, Canada
+Centre for Intelligent Machines – Intelligent Automation Lab
+
+Start: July 2025
+
+* M.S. in Electrical and Computer Engineering
+  Carnegie Mellon University
+  Concentration: Energy Systems, and Data Science
+
+* B.S. in Electrical Power Engineering
+  University of Rwanda
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Industrial Machine Operator
+Africa Improved Foods, Kigali, Rwanda — Jan – June 2023
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Operated and monitored industrial plant processes to improve production efficiency.
+  * Performed monthly preventive maintenance to enhance equipment reliability.
+  * Reported equipment performance metrics and identified issues for early intervention.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+# Electrical Technician
+King Faisal Hospital, Rwanda — Mar – July 2022
+
+  * Maintained the hospital’s electrical substation, ensuring continuous and safe operation.
+  * Repaired electrical installations and systems to support essential services.
+  * Oversaw solar mini-grid, UPS systems, control panels, and electrical cabinets.
+
+# Electrical Technician
+Rwanda Energy Group (REG) — Mar – Oct 2021
+
+  * Maintained and repaired medium-voltage power networks.
+  * Extended low-voltage distribution lines to support rural electrification.
+  * Calibrated and serviced energy meters; monitored substation performance and faults.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Power Systems & Electrical Engineering
+  * Power System Operations, Power Electronics, Electrical Network Analysis
+  * Transmission & Distribution, Power Plant Engineering
+  * Photovoltaic Systems & Off-Grid Electricity Design
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Control Systems & Embedded Engineering
+  * Advanced Control Systems, Microcontrollers, Embedded Systems
+  * Electrical Machine Modeling, Smart Grid Telecommunications
+
+# Data & Analytics
+  * Data Inference & Machine Learning, Big Data Science, GIS
+  * Data Analytics for Energy Systems
+
+# Engineering Fundamentals
+  * Circuit Analysis, Electromagnetics, Fluid Mechanics, Thermodynamics
+  * Materials Science, Engineering Drawing, CAD
+
+# Project & Innovation
+  * Research Methodology, Energy Project Development & Finance
+  * Engineering Project Management, Entrepreneurship
+
+
+🧑🏽‍💻  # Programming & Tools
+    * Languages: MATLAB, Simulink, C, Arduino, Python
+    * CAD & Simulation Tools: SolidWorks, AutoCAD-Electrical, PowerWorld Simulator, Proteus
