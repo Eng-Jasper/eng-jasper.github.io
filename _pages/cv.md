@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
+
 * Ph.D. in Electrical and Computer Engineering (In Progress)
     McGill University, Canada
     Centre for Intelligent Machines – Intelligent Automation Lab
-
-Start: July 2025
+    Start: July 2025
 
 * M.S. in Electrical and Computer Engineering
     Carnegie Mellon University
@@ -25,7 +24,7 @@ Start: July 2025
     University of Rwanda
 
 # Work experience
-======
+
 **Industrial Machine Operator**
 Africa Improved Foods, Kigali, Rwanda — Jan – June 2023
 
@@ -49,7 +48,7 @@ Rwanda Energy Group (REG) — Mar – Oct 2021
 
 
 # Skills
-======
+
 **Power Systems & Electrical Engineering**
   * Power System Operations, Power Electronics, Electrical Network Analysis
   * Transmission & Distribution, Power Plant Engineering
