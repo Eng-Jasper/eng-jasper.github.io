@@ -18,14 +18,15 @@ author_profile: true
 # Work experience
 
 **Industrial Machine Operator**
-Africa Improved Foods, Kigali, Rwanda — Jan – June 2023
+
+_Africa Improved Foods_, Kigali, Rwanda, Jan – June 2023
 
   * Operated and monitored industrial plant processes to improve production efficiency.
   * Performed monthly preventive maintenance to enhance equipment reliability.
   * Reported equipment performance metrics and identified issues for early intervention.
 
 **Electrical Technician**
-King Faisal Hospital, Rwanda — Mar – July 2022
+_King Faisal Hospital_, Rwanda,  Mar – July 2022
 
   * Maintained the hospital’s electrical substation, ensuring continuous and safe operation.
   * Repaired electrical installations and systems to support essential services.
