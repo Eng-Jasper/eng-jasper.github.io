@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 
 ---
-
+Find and download my PDF CV [here](https://drive.google.com/file/d/1cOPWypzn3jfNW9VI0FBc6qAEkGjqQG9Z/view?usp=sharing)
 
 # Education
 
@@ -17,9 +17,7 @@ author_profile: true
 
 # Work experience
 
-**Industrial Machine Operator**
-
-_Africa Improved Foods_, Kigali, Rwanda, Jan – June 2023
+**Industrial Machine Operator** at Africa Improved Foods, Kigali, Rwanda, Jan – June 2023
 
   * Operated and monitored industrial plant processes to improve production efficiency.
   * Performed monthly preventive maintenance to enhance equipment reliability.
