@@ -29,7 +29,7 @@ Find and download my PDF CV [here](https://drive.google.com/file/d/1cOPWypzn3jfN
   * Repaired electrical installations and systems to support essential services.
   * Oversaw solar mini-grid, UPS systems, control panels, and electrical cabinets.
 
-**Electrical Technician** at [Rwanda Energy Group]([www.reg.rw](https://www.reg.rw/) — Mar – Oct 2021
+**Electrical Technician** at [Rwanda Energy Group](https://www.reg.rw/), Mar – Oct 2021
 
   * Maintained and repaired medium-voltage power networks.
   * Extended low-voltage distribution lines to support rural electrification.
