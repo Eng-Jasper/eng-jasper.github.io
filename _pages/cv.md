@@ -11,11 +11,11 @@ author_profile: true
 
 * Ph.D. in Electrical and Computer Engineering (In Progress)
 
-  McGill University, Canada
+    McGill University, Canada
 
-  Centre for Intelligent Machines – Intelligent Automation Lab
+    Centre for Intelligent Machines – Intelligent Automation Lab
 
-  Start: July 2025
+    Start: July 2025
 
 * M.S. in Electrical and Computer Engineering
     Carnegie Mellon University
