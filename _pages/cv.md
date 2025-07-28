@@ -72,6 +72,7 @@ Skills
   * Engineering Project Management, Entrepreneurship
 
 
-🧑🏽‍💻**Programming & Tools**
+🧑🏽‍💻 **Programming & Tools**
+
     * Languages: MATLAB, Simulink, C, Arduino, Python
     * CAD & Simulation Tools: SolidWorks, AutoCAD-Electrical, PowerWorld Simulator, Proteus
