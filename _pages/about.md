@@ -24,6 +24,8 @@ Developed a high-fidelity Simulink model to simulate the turn-off behavior of HV
 
 Collaborated with the national utility under Rwanda Energy Group to deploy and integrate PMU devices into the national grid. Contributions included optimal placement analysis, power quality visualization algorithms, engineer training, and system commissioning.
 
+Further details on this work can be found [here](https://www.africa.engineering.cmu.edu/news/2025/06/09-powering-future.html).
+
 - Energy Systems and Solar Electrification
 
 Experience in the design, operation, and maintenance of solar mini-grids, substations, protective relay systems, and hospital energy infrastructure—bridging the gap between engineering design and real-world applications.
