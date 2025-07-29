@@ -22,7 +22,7 @@ Developed a high-fidelity Simulink model to simulate the turn-off behavior of HV
 
 - Phasor Measurement Units (PMUs) Deployment – Rwanda Power Grid
 
-Collaborated with the national utility under Rwanda Energy Group to deploy and integrate PMU devices into the national grid. Contributions included optimal placement analysis, power quality visualization algorithms, engineer training, and system commissioning.
+Collaborated with the national electric utility, Rwanda Energy Group, to deploy and integrate PMU devices into the national grid. Contributions included optimal placement analysis, power quality visualization algorithms, engineer training, and system commissioning.
 
 Further details on this work can be found [here](https://www.africa.engineering.cmu.edu/news/2025/06/09-powering-future.html).
 
