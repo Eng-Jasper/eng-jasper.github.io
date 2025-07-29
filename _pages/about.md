@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-Hello! I'm Jasper, an electrical engineer and researcher in control systems, power electronics, and intelligent energy networks. I’m currently pursuing a Ph.D. in Electrical and Computer Engineering at McGill University, where I work at the Intelligent Automation Lab (IALab) within the Centre for Intelligent Machines.
+Hello! I'm Jasper, an electrical engineer and researcher specializing in control systems, power electronics, and intelligent energy systems. I will begin pursuing a Ph.D. in Electrical and Computer Engineering at [McGill University](https://www.mcgill.ca/) in Fall 2025. I will be joining the Intelligent Automation Laboratory (IALab) within the Centre for Intelligent Machines.
 
 <!-- My research explores the convergence of control theory, renewable energy systems, and data-driven modeling, with a focus on developing resilient and intelligent solutions for modern electric power infrastructure. I am particularly interested in real-time system monitoring, dynamic control strategies, and sustainable energy integration for both developing and industrialized regions.-->
 
@@ -33,12 +32,12 @@ Experience in the design, operation, and maintenance of solar mini-grids, substa
 - Ph.D. in Electrical and Computer Engineering (in progress)
 McGill University
 
-  - Focus: Control Systems, Power Electronics
+  <!-- - Focus: Control Systems, Power Electronics -->
 
 - M.Sc. in Electrical and Computer Engineering
-Carnegie Mellon University – Africa Campus
+Carnegie Mellon University
 
-  - Concentration: Energy Systems, Control, and Data Science
+  - Concentration: Power and Energy Systems, Control Systems, and Data Science
 
 - B.Sc. in Electrical Power Engineering
 University of Rwanda
@@ -58,13 +57,13 @@ Delivered technical workshops and mentorship for junior engineers and students o
 ## Professional Memberships
 I am an active member of several IEEE societies, where I contribute to professional discourse, access emerging research, and collaborate with peers in academia and industry:
 
-- IEEE Power & Energy Society (PES)
+- [IEEE Power & Energy Society (PES)](https://ieee-pes.org/)
 
-- IEEE Power Electronics Society (PELS)
+- [IEEE Power Electronics Society (PELS)](https://www.ieee-pels.org/)
 
-- IEEE Industry Applications Society (IAS)
+- [IEEE Industry Applications Society (IAS)](https://ias.ieee.org/)
 
-- IEEE Young Professionals
+- [IEEE Young Professionals](https://yp.ieee.org/)
 
 
 These communities enable me to stay connected with emerging trends, contribute to peer exchange, and build collaborations that push the boundaries of what is possible in electrical engineering.
